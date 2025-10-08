@@ -1,0 +1,4 @@
+Virtual functions differ from overloaded functions in that overloaded functions must differ
+from the number of parameters or the type of parameters. An overridden virtual function
+must have exactly the same prototype (that is, the same return type and the same type
+and number of parameters) as the original function.

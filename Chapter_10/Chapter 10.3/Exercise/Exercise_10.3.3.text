@@ -1,0 +1,2 @@
+When func() is called relative to derived1, it is the func() inside base that is used.
+The reason this works is that virtual functions are hierarchical.

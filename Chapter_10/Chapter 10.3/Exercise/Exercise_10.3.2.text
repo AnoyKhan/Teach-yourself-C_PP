@@ -1,0 +1,3 @@
+By definition, an abstract class contains at least one pure virtual function. This means
+that no body for that function exists relative to that class. Thus, there is no way that an
+object can be created because the class definition is not complete.
