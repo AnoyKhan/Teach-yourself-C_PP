@@ -1,0 +1,2 @@
+If an exception is thrown for which there is no corresponding catch, terminate() is called
+and abnormal program termination might occur.

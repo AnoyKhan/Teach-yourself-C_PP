@@ -1,0 +1,2 @@
+By default, new throws an exception when an allocation error occurs. The nothrow
+version of new returns a null pointer if memory cannot be allocated.

@@ -1,0 +1,15 @@
+p = new( nothrow ) int;
+if (!p)
+{
+    cout << " Allocation error .\n";
+    // ...
+}
+try
+{
+    p = new int;
+}
+catch ( bad_alloc ba)
+{
+    cout << " Allocation error .\n";
+    // ...
+}

@@ -1,0 +1,4 @@
+Generic functions are valuable because they allow you to define a general algorithm that
+can be applied to various types of data. (That is, specific versions of the algorithm need
+not be explicitly created by you.) Generic functions further help implement the concept
+of ”one interface, multiple methods,” which is a common theme in C++ programming.

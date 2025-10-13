@@ -1,0 +1,3 @@
+A character exception is thrown, but the catch statement will handle only a character
+pointer. (That is, there is no corresponding catch statement to handle the character
+exception.)
