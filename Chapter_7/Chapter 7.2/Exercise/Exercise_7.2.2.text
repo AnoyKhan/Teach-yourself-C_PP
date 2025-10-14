@@ -1,0 +1,4 @@
+2. Explain why the protected category is needed?
+
+Ans- The protected category is needed to allow a base class to keep certain members private
+     while still allowing a derived class to have access to them.

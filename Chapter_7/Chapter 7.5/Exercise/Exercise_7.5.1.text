@@ -1,0 +1,6 @@
+Explain why a virtual base class might be necessary
+
+-A virtual base class is needed when a derived class inherits two (or more) classes, both of
+ which are derived from the same base class. Without virtual base classes, two (or more)
+ copies of the common base class would exist in the final derived class, However, if the
+ original base is virtual, only one copy is present in the final derived class.

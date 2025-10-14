@@ -1,0 +1,6 @@
+2. What happens when a public member is inherited as public? What happens when it is
+inherited as private?
+
+Ans - A public member of a base becomes a public member of a derived class when it is inherited
+      as public. When a public member of a base is inherited as private, it becomes a private
+      member of the derived class.
